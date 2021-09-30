@@ -1,0 +1,5 @@
+opencv-python==3.4.2.17
+numpy
+scikit-image==1.16.2
+tensorflow
+imutils
